@@ -1,0 +1,9 @@
+# Build output
+x64/
+
+# Duplicate or auto-created folder
+CoreCausus/
+
+# User-specific Visual Studio settings (don't share this)
+CoreCausus.vcxproj.user
+.vs/
